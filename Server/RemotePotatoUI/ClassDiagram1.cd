@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RemotePotatoServer.FirewallHelper" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAACAAQAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\FirewallHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.RegRunHelper" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAQAAQAIAAAAQ=</HashCode>
+      <FileName>Code\Classes\RegRunHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.RPMessageBox" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAEAAAAABEAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Code\Classes\RPMessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.UIFunctions" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAAAAIAABAAAAAAIAABAAAAAAAAACAAAgAIAA=</HashCode>
+      <FileName>Code\Classes\UIFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.URLReserver" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAIAAAAACAAAAAgAAAAAAAAAAEA=</HashCode>
+      <FileName>Code\Classes\URLReservation\URLReserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.WizardPages" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Code\Classes\WizardPages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.ServiceInstaller" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACBAAAAAAhAAAgBAAAAAFBBEIAAAEAAABAI=</HashCode>
+      <FileName>Code\Service\ServiceInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.ServiceManager" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCgAAAAIAgAEEIAAAAAAECACQMAAAKAAAAQBACAABAI=</HashCode>
+      <FileName>Code\Service\ServiceManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.Form1" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/38f79be36rdDv9/O7ff9f9K9ydsfyjnf/T631989/o=</HashCode>
+      <FileName>Forms\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.FormChannelImportingOptions" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAKAAABAAAACAAgACAAAYAFAAACEAEAEAIAA=</HashCode>
+      <FileName>Forms\FormChannelImportingOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.FormConnectionInformation" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAAAAACAAIACAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Forms\FormConnectionInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.FormConnectionWizard" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/+nAb1OGgCEESRASkDPA+M97eECCWAQCgvAIS2RB+Lc=</HashCode>
+      <FileName>Forms\FormConnectionWizard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.FormDonationRequest" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAABACAABACABAABAAQAAAFAQAACAA=</HashCode>
+      <FileName>Forms\FormDonationRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.FormFoldersCollection" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgKYkAAAKAAAAkgAACACUKCAkAQAgAEEAQEAAIAIvA=</HashCode>
+      <FileName>Forms\FormFoldersCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.FormInputBox" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAEAAACACMACAAAAAEAgAAAgAAAAAAA=</HashCode>
+      <FileName>Forms\FormInputBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.FormMediaLibraryAccountSetter" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAIAAAQAGAAABWAABGAAEADAgAAAAAAEAAQAABAICA=</HashCode>
+      <FileName>Forms\FormMediaLibraryAccountSetter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.FormThemesChooser" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQAAFCAAANABAACAAAACAIIIABAAAGAgAAAAAAA=</HashCode>
+      <FileName>Forms\FormThemesChooser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.FormUserManagement" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAACAAABEAAACAAAACAAAIAAAQEGAAAAAAAAA=</HashCode>
+      <FileName>Forms\FormUserManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.frmPleaseWait" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAAIAAACCAkACAAAAABAAACAAAAAAAAA=</HashCode>
+      <FileName>Forms\frmPleaseWait.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.ucConnectionSummary" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAMAYAgHQFABAAQQiAEACCAEAABAQSlCRDYABMAAg=</HashCode>
+      <FileName>Forms\ucConnectionSummary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.Program" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.RPController" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAIAAEAAAAAAAAAAAAAABAAIAAAAAAAAAA=</HashCode>
+      <FileName>RPController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.AccountTools.LogonUtility" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAAAAQAAAAAAAAAACAAAAIAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Code\Classes\LSA\LogonUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.AccountTools.LsaUtility" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAIAABAAAEAACABQAAAAAAAAAAAAAAAAAAAAAAU=</HashCode>
+      <FileName>Code\Classes\LSA\LsaUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.MessageBoxWithTimeout" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAhAAADgQBAAAAACAADAACAEAGAQABgQYAFAAgBAA=</HashCode>
+      <FileName>Code\Classes\MessageBoxWithTimeout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.Network.NATHelper" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAEAAIAAAAAIAAAgCAAAAAYgAAAgAQAAAEIiARAA=</HashCode>
+      <FileName>Code\Classes\NAT\NATHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.Network.PortChecker" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAIAAEIAAAACAAAoAAACCAEAACABEAAAAQCAAQ=</HashCode>
+      <FileName>Code\Classes\PortChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.UI.UpdateChecker" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\UpdateChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Austin.HttpApi.Internal.ErrorCodes" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAACAAAAAAAAAAAAAAAAAgAACAAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\ErrorCodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Austin.HttpApi.Internal.HttpApiConstants" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAEAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HttpApiConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Austin.HttpApi.Internal.NativeMethods" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAgAAgAAACAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\NativeMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Austin.HttpApi.UrlReservation" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAGAAAAQAACAAAABAIAAQCAUAAEAgCgAAAAAAEEA=</HashCode>
+      <FileName>Code\Classes\URLReservation\UrlReservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OffLine.Installer.InstallerClass" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAACAGAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Code\Service\InstallerClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemotePotatoServer.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgkBQAABEACCMQABEEAAACAABIAAEII=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_IP_LISTEN_PARAM" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_IP_LISTEN_PARAM.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_IP_LISTEN_QUERY" Collapsed="true">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_IP_LISTEN_QUERY.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_SSL_KEY" Collapsed="true">
+    <Position X="4" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_SSL_KEY.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_SSL_PARAM" Collapsed="true">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAFAAAAAAAAAAABABAAAhQAEBA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_SSL_PARAM.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_SSL_QUERY" Collapsed="true">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_SSL_QUERY.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_SSL_SET" Collapsed="true">
+    <Position X="9.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_SSL_SET.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_URLACL_KEY" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_URLACL_KEY.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_URLACL_PARAM" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_URLACL_PARAM.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_URLACL_QUERY" Collapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_URLACL_QUERY.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_URLACL_SET" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_URLACL_SET.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Austin.HttpApi.Internal.HTTPAPI_VERSION" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTPAPI_VERSION.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="RemotePotatoServer.ServiceState" Collapsed="true">
+    <Position X="4" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAAAAIAAAAAAAACAAAAAAAAAIAIAAAAAAIAARA=</HashCode>
+      <FileName>Code\Service\ServiceInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemotePotatoServer.ScmAccessRights" Collapsed="true">
+    <Position X="5.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQMAAAAAAAAAAIAAAAAIAAACAAAAAEAAAAAAAABAA=</HashCode>
+      <FileName>Code\Service\ServiceInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemotePotatoServer.ServiceAccessRights" Collapsed="true">
+    <Position X="7.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIEAEACAAAAAAAAAAAABAgCEAAAAAoAAAAABAAAA=</HashCode>
+      <FileName>Code\Service\ServiceInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemotePotatoServer.ServiceBootFlag" Collapsed="true">
+    <Position X="9.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAAAAAAAAAAAAgAAAAAAAAI=</HashCode>
+      <FileName>Code\Service\ServiceInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemotePotatoServer.ServiceControl" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAIAAAAAAAAQAAAAAQAAAAAAAIAAoIAAAAAAAAA=</HashCode>
+      <FileName>Code\Service\ServiceInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemotePotatoServer.ServiceError" Collapsed="true">
+    <Position X="2.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAAAACAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Service\ServiceInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemotePotatoServer.RPServiceStatusTypes" Collapsed="true">
+    <Position X="4" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAIAAAABAAAAAA=</HashCode>
+      <FileName>Code\Service\ServiceManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_ID" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_ID.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Austin.HttpApi.Internal.HTTP_SERVICE_CONFIG_QUERY_TYPE" Collapsed="true">
+    <Position X="2.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Classes\URLReservation\Internal\HTTP_SERVICE_CONFIG_QUERY_TYPE.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Austin.Windows.SIDType" Collapsed="true">
+    <Position X="5.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAEAIAAAAAAAAAAAAAAgAAABAAAAAAAAAACFA=</HashCode>
+      <FileName>Code\Classes\URLReservation\SIDType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
